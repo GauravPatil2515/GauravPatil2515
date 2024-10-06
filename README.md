@@ -15,24 +15,24 @@
 ---
 
 ## 💻 Tech Skills:
-### **Programming Languages**  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+- **Programming Languages**:  
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
+  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### **Data Science & Visualization**  
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)  
-![Seaborn](https://img.shields.io/badge/Seaborn-%23ffffff.svg?style=for-the-badge&logo=Seaborn&logoColor=black)  
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+- **Data Science & Visualization**:  
+  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  
+  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)  
+  ![Seaborn](https://img.shields.io/badge/Seaborn-%23ffffff.svg?style=for-the-badge&logo=Seaborn&logoColor=black)  
+  ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### **Other Tools**  
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+- **Other Tools**:  
+  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
+  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
+  ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
@@ -43,22 +43,6 @@
 
 ---
 
-## 📈 Activity Graph
-<h2 align='center'><i>Activity Graph📈</i></h2>
-[![Gaurav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GauravPatil2515&theme=react)](https://github.com/GauravPatil2515/github-readme-activity-graph)
-
----
-
-## 🏆 Top Repositories
-<h2 align='center'><i>Top Repos</i></h2>
-<p align="center">
-<a href="https://github.com/GauravPatil2515/github-readme-activity-graph">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=GauravPatil2515&repo=your-repo-name&theme=react&hide_border=true" height="185">
-</a>
-</p>
-
----
-
 ## 🚀 What I'm Currently Working On:
 - Building machine learning models for **predictive analytics**
 - Data visualization projects using **Power BI** and **Python**
@@ -66,7 +50,15 @@
 
 ---
 
-![GitHub Contribution Graph](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+<h2 align='center'><i>Activity Graph📈</i></h2>
+[![Gaurav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GauravPatil2515&theme=react)](https://github.com/GauravPatil2515/github-readme-activity-graph)
+
+<h2 align='center'><i>Top Repos</i></h2>
+<p align="center">
+  <a href="https://github.com/GauravPatil2515/Gesture-Recognition-with-OpenCV-and-MediaPipe">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GauravPatil2515&repo=Gesture-Recognition-with-OpenCV-and-MediaPipe&theme=react&hide_border=true" height="185">
+  </a>
+</p>
 
 ---
 
