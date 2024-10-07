@@ -79,67 +79,75 @@
 		</td>
 	</tr>
 </table>
-</div>
 
-<div align="center">
-<h2 align='center'><i>Languages, Tools and Technologies 🚀</i></h2>
-<table>
-	<tr>
-		<td><strong>Programming Languages</strong></td>
-		<td>
-			<img height=40 src="https://skillicons.dev/icons?i=cpp,c,java,python&theme=dark">
-		</td>
-	</tr>
-	<tr>
-		<td><strong>Data Science & Machine Learning - Libraries</strong></td>
-		<td>
-			<img height=40 src="https://skillicons.dev/icons?i=numpy,pandas&theme=light">
-			<img height=40 src="https://skillicons.dev/icons?i=scikit-learn,tensorflow&theme=light">
-			<img height=40 src="https://matplotlib.org/_static/logo2.svg">
-			<img height=40 src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg">
-		</td>
-	</tr>
-
-  <tr>
-		<td><strong>Computer Vision</strong></td>
-		<td>
-			<img height=40 src="https://skillicons.dev/icons?i=opencv&theme=dark">
-		</td>
-	</tr>
-	<tr>
-		<td><strong>Tools</strong></td>
-		<td>
-			<img height=40 src="https://skillicons.dev/icons?i=jupyter,powerbi,github,vscode,pycharm,intellij&theme=dark">
-		</td>
-	</tr>
-	<tr>
-		<td><strong>Concepts</strong></td>
-		<td>
-			<span>Machine Learning Model Building, Data Analysis, Predictive Analytics, Data Visualization</span>
-		</td>
-	</tr>
-	<tr>
-		<td><strong>Other Tools</strong></td>
-		<td>
-			<img height=40 src="https://skillicons.dev/icons?i=figma,canva&theme=dark">
-			<img height=40 src="https://skillicons.dev/icons?i=postman&theme=dark">
-			<img height=40 src="https://skillicons.dev/icons?i=mysql&theme=dark"> <!-- SQL Logo -->
-			<img height=40 src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013_logo.svg"> <!-- Excel Logo -->
-		</td>
-	</tr>
-
-  <tr>
-		<td><strong>Operating Systems</strong></td>
-		<td>
-			<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-		</td>
-	</tr>
+	
+  
+ 
 </table>
 </div>
 
+<div align="center">
+  <h2 align='center'><i>Languages, Tools and Technologies 🚀</i></h2>
+  <table>
+    <tr>
+      <td><strong>Programming Languages</strong></td>
+      <td>
+        <img height=40 src="https://skillicons.dev/icons?i=cpp,c,java,python&theme=dark">
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Data Science & Machine Learning - Libraries</strong></td>
+      <td>
+	<img height=40 src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg"> <!-- NumPy -->
+	<img height=40 src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"> <!-- Pandas -->
+	<img height=40 src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"> <!-- Scikit-learn -->
+        <img height=40 src="https://skillicons.dev/icons?i=scikit-learn,tensorflow&theme=light">
+        <img height=40 src="https://matplotlib.org/_static/logo2.svg">
+        <img height=40 src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg">
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Computer Vision</strong></td>
+      <td>
+        <img height=40 src="https://skillicons.dev/icons?i=opencv&theme=dark">
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Tools</strong></td>
+      <td>
+        <img height=40 src="https://skillicons.dev/icons?i=jupyter,powerbi,github,vscode,pycharm,intellij&theme=dark">
+        <img height=40 src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg"> 
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Concepts</strong></td>
+      <td>
+        <span>Machine Learning Model Building, Data Analysis, Predictive Analytics, Data Visualization</span>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Other Tools</strong></td>
+      <td>
+	<img height=40 src="https://skillicons.dev/icons?i=arduino&theme=dark">
+               <img height=40 src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"> <!-- Canva logo not visible, use Figma -->
+               <img height=40 src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Canva_Logo.svg"> <!-- Canva -->
+               <img height=40 src="https://skillicons.dev/icons?i=postman&theme=dark">
+               <img height=40 src="https://skillicons.dev/icons?i=mysql&theme=dark">
+	       <img height=40 src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013_logo.svg"> <!-- Excel -->
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Operating Systems</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 ---
+
 
 ## 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GauravPatil2515&theme=radical&hide_border=false&include_all_commits=false&count_private=false)  
@@ -168,5 +176,4 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=GauravPatil2515&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
