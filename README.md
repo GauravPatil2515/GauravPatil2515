@@ -115,9 +115,11 @@
     <tr>
       <td><strong>Tools</strong></td>
       <td>
-        <img height=40 src="https://skillicons.dev/icons?i=jupyter,powerbi,github,vscode,pycharm,intellij&theme=dark">
+        <img height=40 src="https://skillicons.dev/icons?i=github,vscode,pycharm,powerbi&theme=dark">
         <img height=40 src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg"> 
-      </td>
+	 <img height=40 src="https://skillicons.dev/icons?i=intellij&theme=dark">
+	    
+</td>
     </tr>
     <tr>
       <td><strong>Concepts</strong></td>
