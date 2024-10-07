@@ -34,6 +34,111 @@
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
   ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
+  <div align="center">
+<h2 align='center'><i>Languages, Tools and Technologies 🚀</i></h2>
+<table>
+	<tr>
+		<td><strong>Programming Languages</strong></td>
+		<td><img height=40 src="https://skillicons.dev/icons?i=cpp,c,java,python&theme=dark"></td>
+	</tr>
+	<tr>
+		<td><strong>Data Science & Visualization</strong></td>
+		<td>
+			<img height=40 src="https://skillicons.dev/icons?i=numpy,pandas&theme=light">
+			<img height=40 src="https://skillicons.dev/icons?i=scikit-learn&theme=light">
+			<img height=40 src="https://matplotlib.org/_static/logo2.svg">
+			<img height=40 src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg">
+			<img height=40 src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg"> <!-- Jupyter logo -->
+		</td>
+	</tr>
+	<tr>
+		<td><strong>Computer Vision</strong></td>
+		<td>
+			<img height=40 src="https://skillicons.dev/icons?i=opencv&theme=dark">
+		</td>
+	</tr>
+	<tr>
+		<td><strong>Data Visualization Tools</strong></td>
+		<td>
+			<img height=40 src="https://skillicons.dev/icons?i=powerbi&theme=dark">
+			<img height=40 src="https://skillicons.dev/icons?i=tableau&theme=dark">
+		</td>
+	</tr>
+	<tr>
+		<td><strong>Development Tools</strong></td>
+		<td>
+			<img height=40 src="https://skillicons.dev/icons?i=arduino&theme=dark">
+			<img height=40 src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark">
+		</td>
+	</tr>
+	<tr>
+		<td><strong>Operating Systems</strong></td>
+		<td>
+			<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+			<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+		</td>
+	</tr>
+</table>
+</div>
+
+<div align="center">
+<h2 align='center'><i>Languages, Tools and Technologies 🚀</i></h2>
+<table>
+	<tr>
+		<td><strong>Programming Languages</strong></td>
+		<td>
+			<img height=40 src="https://skillicons.dev/icons?i=cpp,c,java,python&theme=dark">
+		</td>
+	</tr>
+	<tr>
+		<td><strong>Data Science & Machine Learning - Libraries</strong></td>
+		<td>
+			<img height=40 src="https://skillicons.dev/icons?i=numpy,pandas&theme=light">
+			<img height=40 src="https://skillicons.dev/icons?i=scikit-learn,tensorflow&theme=light">
+			<img height=40 src="https://matplotlib.org/_static/logo2.svg">
+			<img height=40 src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg">
+		</td>
+	</tr>
+
+  <tr>
+		<td><strong>Computer Vision</strong></td>
+		<td>
+			<img height=40 src="https://skillicons.dev/icons?i=opencv&theme=dark">
+		</td>
+	</tr>
+	<tr>
+		<td><strong>Tools</strong></td>
+		<td>
+			<img height=40 src="https://skillicons.dev/icons?i=jupyter,powerbi,github,vscode,pycharm,intellij&theme=dark">
+		</td>
+	</tr>
+	<tr>
+		<td><strong>Concepts</strong></td>
+		<td>
+			<span>Machine Learning Model Building, Data Analysis, Predictive Analytics, Data Visualization</span>
+		</td>
+	</tr>
+	<tr>
+		<td><strong>Other Tools</strong></td>
+		<td>
+			<img height=40 src="https://skillicons.dev/icons?i=figma,canva&theme=dark">
+			<img height=40 src="https://skillicons.dev/icons?i=postman&theme=dark">
+			<img height=40 src="https://skillicons.dev/icons?i=mysql&theme=dark"> <!-- SQL Logo -->
+			<img height=40 src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013_logo.svg"> <!-- Excel Logo -->
+		</td>
+	</tr>
+
+  <tr>
+		<td><strong>Operating Systems</strong></td>
+		<td>
+			<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+		</td>
+	</tr>
+</table>
+</div>
+
+
+
 ---
 
 ## 📊 GitHub Stats:
@@ -64,4 +169,4 @@
 
 [![](https://visitcount.itsvg.in/api?id=GauravPatil2515&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
