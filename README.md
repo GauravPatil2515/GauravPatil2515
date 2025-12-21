@@ -1,3 +1,5 @@
+# Gaurav Patil
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Gaurav%20Patil&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=white" alt="header"/>
 </div>
@@ -61,7 +63,7 @@ experience: AI Intern @ Pioneer Machines & Automation
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
   <img src="https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost"/>
-  <img src="https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
   <img src="https://img.shields.io/badge/Sentence_Transformers-FF6F61?style=for-the-badge" alt="Sentence Transformers"/>
 </p>
@@ -104,11 +106,11 @@ experience: AI Intern @ Pioneer Machines & Automation
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire. png" alt="Fire" width="30" /> GitHub Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" /> GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api? username=GauravPatil2515&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com? user=GauravPatil2515&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=ff6e96&currStreakLabel=58a6ff" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=GauravPatil2515&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=GauravPatil2515&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=ff6e96&currStreakLabel=58a6ff" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
@@ -128,23 +130,7 @@ experience: AI Intern @ Pioneer Machines & Automation
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Star" width="30" /> Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel. app/graph?username=GauravPatil2515&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6e96&area=true&area_color=58a6ff&hide_border=true" width="100%" alt="Contribution Graph"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GauravPatil2515/GauravPatil2515/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GauravPatil2515/GauravPatil2515/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/GauravPatil2515/GauravPatil2515/output/github-snake-dark.svg" />
-  </picture>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GauravPatil2515&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6e96&area=true&area_color=58a6ff&hide_border=true" width="100%" alt="Contribution Graph"/>
 </p>
 
 ---
@@ -241,7 +227,7 @@ experience: AI Intern @ Pioneer Machines & Automation
 </p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel. app/api?type=horizontal&theme=tokyonight" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote"/>
 </p>
 
 <p align="center">
