@@ -1,292 +1,242 @@
 # Gaurav Patil
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Gaurav%20Patil&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=gradient&desc=Frontend%20Developer%20%7C%20AI%20%26%20ML%20Engineer%20%7C%20Data%20Science%20Enthusiast&descAlignY=55&descSize=20" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Gaurav%20Patil&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=white" alt="header"/>
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;I'm+Gaurav+Patil;Frontend+Developer;AI+%26+ML+Engineer;Data+Science+Enthusiast;Computer+Vision+Developer;Always+Learning+%26+Growing!&center=true&size=30&color=58a6ff&vCenter=true&width=800&height=50&duration=4000&pause=1000" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer;Healthcare+AI+Specialist;RAG+%7C+Computer+Vision+%7C+LLMs;Building+Intelligent+Systems" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GauravPatil2515&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views">
-  <img src="https://img.shields.io/github/followers/GauravPatil2515?label=Followers&style=for-the-badge&color=blue" alt="followers">
-  <img src="https://img.shields.io/github/stars/GauravPatil2515?label=Stars&style=for-the-badge&color=yellow" alt="stars">
+  <a href="mailto:gauravpatil2516@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/gaurav-patil-6b1241215/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/GauravPatil2515"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <img src="https://komarev.com/ghpvc/?username=GauravPatil2515&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views">
 </p>
-
----
-
-## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gauravpatil2515/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:gauravpatil2516@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/GauravPatil2515" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line" width="100%">
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist" width="30" /> About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" alt="coding gif"/>
 
-- 🔭 **Passionate Frontend Developer** & **AI/ML Engineer** from India
-- 🌱 Currently exploring **Machine Learning, Data Science & Computer Vision**
-- 💡 Interested in **Web Development, AI/ML, IoT, and Data Analytics**
-- 🎯 Always learning and building cool projects
-- 💬 Ask me about **Python, Java, C++, Data Analysis, and Machine Learning**
-- 📫 How to reach me: **<gauravpatil2516@gmail.com>**
-- ⚡ Fun fact: **I love turning coffee into code!** ☕
+```yaml
+name: Gaurav Patil
+role: AI/ML Engineer | Healthcare AI Specialist
+education: B.E. AI & ML @ SIES GST (CGPA: 8.57)
+experience: AI Intern @ Pioneer Machines & Automation
+```
 
-### 💡 Quick Highlights
+- 🔭 Currently working on **Healthcare AI Solutions**
+- 🌱 Learning **MLOps & Advanced RAG Systems**
+- 🏥 Processed **10K+ medical documents** with Vertex AI
+- ⚡ Built systems with **29ms query latency**
+- 🏆 **Multiple hackathon winner** (NIT Goa, BNB Chain)
+- 💬 Ask me about **RAG, Computer Vision, LLMs**
+- 📫 Reach me at **gauravpatil2516@gmail.com**
 
-- 🤖 Passionate about **AI/ML** and **Data Science**
-- 📊 Expert in **Data Analysis** and **Visualization**
-- 🔬 Experienced in building **Machine Learning** models from scratch
-- 👁️ Working with **Computer Vision** using OpenCV and MediaPipe
-- 🎯 Currently exploring **Deep Learning** and **Neural Networks**
-- 💻 Love to contribute to **Open Source** projects
-- 📚 Continuously learning and staying updated with latest tech trends
-- 🤝 Open to collaborating on innovative **Data Science** and **ML** projects
+<br clear="both">
 
-<br clear="right"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line" width="100%">
+</p>
 
 ---
 
-## 💻 Tech Stack & Tools
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" /> Tech Stack
 
-<details open>
-<summary><b>🐍 Programming Languages</b></summary>
-<br>
+### 💻 Languages
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
 </p>
-</details>
 
-<details open>
-<summary><b>📊 Data Science & Analysis</b></summary>
-<br>
+### 🧠 ML/DL & LLMs
 <p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+  <img src="https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/Sentence_Transformers-FF6F61?style=for-the-badge" alt="Sentence Transformers"/>
+</p>
+
+### 👁️ Computer Vision
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/U--Net++-FF6F61?style=for-the-badge" alt="U-Net++"/>
+  <img src="https://img.shields.io/badge/Vision_Transformers_(ViT)-4285F4?style=for-the-badge" alt="ViT"/>
+  <img src="https://img.shields.io/badge/Grad--CAM-FF4500?style=for-the-badge" alt="Grad-CAM"/>
+  <img src="https://img.shields.io/badge/Detectron2-4267B2?style=for-the-badge&logo=meta&logoColor=white" alt="Detectron2"/>
+  <img src="https://img.shields.io/badge/MiDaS-00CED1?style=for-the-badge" alt="MiDaS"/>
+</p>
+
+### 🚀 Tools & Deployment
+<p align="center">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/FAISS-00ADD8?style=for-the-badge" alt="FAISS"/>
+  <img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Vertex AI"/>
+  <img src="https://img.shields.io/badge/Groq_SDK-F55036?style=for-the-badge" alt="Groq SDK"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+</p>
+
+### 📊 Data Science & Visualization
+<p align="center">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda"/>
-</p>
-</details>
-
-<details open>
-<summary><b>📈 Data Visualization</b></summary>
-<br>
-<p align="center">
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge" alt="Seaborn"/>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
-</p>
-</details>
-
-<details open>
-<summary><b>🤖 Machine Learning & Deep Learning</b></summary>
-<br>
-<p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
-  <img src="https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost"/>
-</p>
-</details>
-
-<details open>
-<summary><b>👁️ Computer Vision</b></summary>
-<br>
-<p align="center">
-  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV"/>
-  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe"/>
-  <img src="https://img.shields.io/badge/PIL-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PIL"/>
-</p>
-</details>
-
-<details open>
-<summary><b>🛠️ Development & Design Tools</b></summary>
-<br>
-<p align="center">
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi"/>
-</p>
-</details>
-
----
-
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=GauravPatil2515&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=GauravPatil2515&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GauravPatil2515&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
-  <img width="48%" src="https://github-contributor-stats.vercel.app/api?username=GauravPatil2515&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9" alt="Contributor Stats" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line" width="100%">
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" /> GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GauravPatil2515&theme=tokyonight&no-frame=true&row=2&column=6&margin-w=15&margin-h=15&no-bg=true" alt="Trophies" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=GauravPatil2515&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=GauravPatil2515&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=ff6e96&currStreakLabel=58a6ff" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GauravPatil2515&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GauravPatil2515&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&no-bg=true" alt="Trophies"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line" width="100%">
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Star" width="30" /> Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GauravPatil2515&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6e96&area=true&area_color=58a6ff&hide_border=true" width="100%" alt="Contribution Graph"/>
+</p>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="30" /> Experience
+
+<table>
+<tr>
+<td>
+
+### 🤖 AI Intern | Pioneer Machines & Automation Pvt. Ltd
+**Jun 2025 - Nov 2025**
+
+- 📄 Built medical document analysis pipeline using **Vertex AI**
+- 📊 Processed **10K+ PubMed articles** with automated data scraping
+- ⚡ Improved throughput by **40%** for clinical data tasks
+- 🔄 Designed retrieval workflows and structured processing systems
+
+</td>
+</tr>
+</table>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="30" /> Achievements
 
 <div align="center">
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🎯 [**Gesture Recognition**](https://github.com/GauravPatil2515/Gesture-Recognition-with-OpenCV-and-MediaPipe) | Real-time hand gesture recognition system | OpenCV • MediaPipe • Python |
-| 🔮 *More Projects Coming Soon!* | Stay tuned for exciting AI/ML projects | TensorFlow • PyTorch • Keras |
+| 🏆 Competition | 🏅 Position |
+|:-------------:|:----------:|
+| **OxygenIgnite Hackathon** - NIT Goa (Stellar India) | 🥉 3rd Place |
+| **BNB Chain Bombay Hackathon** | 🥈 2nd Place |
+| **ByteCamp Hackathon** | 🌱 Top 3 (Sustainability) |
+| **Cognition Project Competition** - University | 🥇 Winner |
+| **Deep Blue Season 10** - Mastek | 🎯 Semi-finalist |
 
-</div>
-
-<p align="center">
-<a href="https://github.com/GauravPatil2515/Gesture-Recognition-with-OpenCV-and-MediaPipe">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GauravPatil2515&repo=Gesture-Recognition-with-OpenCV-and-MediaPipe&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="Gesture Recognition Repo"/>
-</a>
-</p>
-
----
-
-## 🎯 Current Focus & Goals
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <b>🔭 Currently Working On</b>
-        <br><br>
-        🤖 Advanced ML Models<br>
-        👁️ Computer Vision Projects<br>
-        📊 Data Analysis Pipelines<br>
-        🎨 UI/UX for ML Applications
-      </td>
-      <td align="center" width="50%">
-        <b>🌱 Currently Learning</b>
-        <br><br>
-        🧠 Deep Learning Architectures<br>
-        💬 Natural Language Processing<br>
-        ☁️ Cloud ML Platforms<br>
-        🚀 MLOps & Deployment
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="50%">
-        <b>💼 Open to Collaborate On</b>
-        <br><br>
-        🔬 Research Projects<br>
-        📊 Data Science Challenges<br>
-        🤝 Open Source Contributions<br>
-        💡 Innovative ML Solutions
-      </td>
-      <td align="center" width="50%">
-        <b>🎯 2025 Goals</b>
-        <br><br>
-        📚 Publish Research Papers<br>
-        🏆 Win Kaggle Competitions<br>
-        🌐 Build 10+ ML Projects<br>
-        👨‍🏫 Mentor Aspiring Developers
-      </td>
-    </tr>
-  </table>
 </div>
 
 ---
 
-## 📊 Contribution Graph
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Raising%20Hand.png" alt="Leadership" width="30" /> Leadership
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="50%">
+
+### ⚡ IEEE - Technical Head
+**2024 - Present**
+
+🎓 6-hour ISL Recognition workshop (50+ attendees)
+
+🚀 Led AI/ML workshops at Technopedia 2024 (100+ participants)
+
+</td>
+<td align="center" width="50%">
+
+### 🌐 GDG - ML & DS Coordinator
+**2024 - 2025**
+
+👨‍🏫 Mentored 100+ students on ML model design
+
+💻 Weekly office hours & peer-led hack sessions
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" alt="Scroll" width="30" /> Certifications
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GauravPatil2515&theme=react-dark&hide_border=true&bg_color=0D1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb" width="100%" alt="Activity Graph"/>
+  <img src="https://img.shields.io/badge/Stanford-Supervised_Machine_Learning-8C1515?style=for-the-badge&logo=coursera&logoColor=white" alt="Stanford ML"/>
+  <img src="https://img.shields.io/badge/DeepLearning.AI-Advanced_Learning_Algorithms-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="DeepLearning.AI"/>
+  <img src="https://img.shields.io/badge/Cisco-Data_Analytics_Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
 </p>
 
 ---
 
-## 💭 Random Dev Quote
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="30" /> Let's Connect!
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote">
-</p>
-
----
-
-## 📊 GitHub Metrics
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GauravPatil2515&theme=tokyonight" alt="GitHub Profile Summary">
-</p>
-
-<p align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GauravPatil2515&theme=tokyonight" alt="Repos per Language" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GauravPatil2515&theme=tokyonight" alt="Most Commit Language" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GauravPatil2515&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
-</p>
-
----
-
-<h2 align="center">🌟 Show some ❤️ by starring some of my repositories!</h2>
-
-<p align="center">
-  <a href="https://github.com/GauravPatil2515?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Repositories-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="View Repositories">
+  <a href="mailto:gauravpatil2516@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/gaurav-patil-6b1241215/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/GauravPatil2515">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line" width="100%">
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="footer"/>
 
 <div align="center">
-
-### 💡 Inspirational Quote
-
-> "The only way to do great work is to love what you do." - Steve Jobs
-
----
-
-### 🤝 Let's Connect & Collaborate
-
-**Open to collaborating on Data Science, ML, AI & Frontend projects!**
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-GauravPatil2515-blue?style=for-the-badge&logo=github)](https://github.com/GauravPatil2515)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gauravpatil2515/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:gauravpatil2516@gmail.com)
-
-<br>
-
-<img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge" alt="Made with Love">
-<img src="https://img.shields.io/badge/Maintained%3F-Yes-green?style=for-the-badge" alt="Maintained">
-<img src="https://img.shields.io/badge/Last%20Updated-December%202025-blue?style=for-the-badge" alt="Last Updated">
-
+  <h3>💡 Open to collaborating on Healthcare AI & ML projects! 💡</h3>
+  <img src="https://img.shields.io/badge/Thanks_for_visiting! -💜-blueviolet? style=for-the-badge" alt="Thanks"/>
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="Footer Wave"/>
