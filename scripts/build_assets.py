@@ -541,8 +541,8 @@ def achievements():
   <rect x="64" y="512" width="352" height="96" rx="16" fill="{BG2}" stroke="{ACC}" stroke-opacity=".35"/>
   <circle class="pulse" cx="92" cy="541" r="5" fill="{ACC}"/><circle cx="92" cy="541" r="5" fill="{ACC}"/>
   <text class="m" x="106" y="545" font-size="11" letter-spacing="2.5" fill="{ACC}">CURRENTLY BUILDING</text>
-  <text class="d" x="86" y="588" font-size="30" letter-spacing="-1" fill="{FG}">Aelura AI @ CoralOS</text>
-  <text class="s" x="392" y="588" font-size="15" text-anchor="end" fill="{FG2}">Decision-First AI</text>
+  <text class="d" x="86" y="586" font-size="26" letter-spacing="-1" fill="{FG}">Aelura AI</text>
+  <text class="s" x="392" y="586" font-size="15" text-anchor="end" fill="{FG2}">CoralOS · UAT</text>
 </g>
 {chips}"""
   svg("achievements.svg", 1200, 640, css, body, p)
@@ -566,8 +566,8 @@ def connect():
     cards += f"""<g class="fade" style="animation-delay:{.2+i*.1:.1f}s">
   <rect x="{x}" y="{y}" width="330" height="84" rx="16" fill="{BG2}" stroke="{BORDER}"/>
   <circle cx="{x+42}" cy="{y+42}" r="22" fill="{BG}" stroke="{BORDER}"/><path transform="translate({x+31} {y+31}) scale(.9167)" d="{d}" fill="{FG}" fill-rule="evenodd"/>
-  <text class="s" x="{x+78}" y="{y+38}" font-size="18" fill="{FG}">{name}</text>
-  <text class="m" x="{x+78}" y="{y+62}" font-size="12" fill="{FG2}">{handle}</text>
+  <text class="s" x="{x+78}" y="{y+38}" font-size="18" fill="{FG}">{esc(name)}</text>
+  <text class="m" x="{x+78}" y="{y+62}" font-size="12" fill="{FG2}">{esc(handle)}</text>
   <text class="m nudge" x="{x+300}" y="{y+48}" font-size="18" text-anchor="end" fill="{ACC}" style="animation-delay:{i*.2:.1f}s">→</text></g>"""
   css = f"""
   .{p} .fade{{animation:{p}fade .7s ease-out both}}

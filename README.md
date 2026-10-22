@@ -1,21 +1,21 @@
 <p align="center">
-  <img src="./assets/hero.svg?v=1" alt="Gaurav Patil — Healthcare AI & Deep Learning Engineer" width="100%"/>
+  <img src="./assets/hero.svg?v=2" alt="Gaurav Patil — Healthcare AI & Deep Learning Engineer" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="./assets/about-life.svg?v=1" alt="What I build and where I'm building" width="100%"/>
+  <img src="./assets/about-life.svg?v=2" alt="What I build and where I'm building" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="./assets/stack.svg?v=1" alt="Tech stack & orbital arsenal" width="100%"/>
+  <img src="./assets/stack.svg?v=2" alt="Tech stack & orbital arsenal" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="./assets/id-dashboard.svg?v=1" alt="ID card and verified metrics" width="100%"/>
+  <img src="./assets/id-dashboard.svg?v=2" alt="ID card and verified metrics" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="./assets/achievements.svg?v=1" alt="Achievements: 6x hackathon wins, Technical Star Award, IEEE Technical Head" width="100%"/>
+  <img src="./assets/achievements.svg?v=2" alt="Achievements: 6x hackathon wins, Technical Star Award, IEEE Technical Head" width="100%"/>
 </p>
 
 ## `SYSTEM METRICS & ACTIVITY`
@@ -29,16 +29,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GauravPatil2515&theme=github-compact&hide_border=true&area=true&bg_color=050505&color=b4b4bd&line=00F2FE&point=ffffff&area_color=00F2FE&radius=16" width="100%" alt="Contribution Graph"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GauravPatil2515&show_icons=true&hide_border=true&border_radius=16&bg_color=050505&title_color=ffffff&icon_color=00F2FE&text_color=b4b4bd&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GauravPatil2515&show_icons=true&hide_border=true&border_radius=16&bg_color=050505&title_color=ffffff&icon_color=00F2FE&text_color=b4b4bd" width="49%" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GauravPatil2515&hide_border=true&border_radius=16&background=050505&stroke=27272a&ring=00F2FE&fire=00F2FE&currStreakLabel=ffffff&sideLabels=b4b4bd&currStreakNum=ffffff&sideNums=ffffff&dates=b4b4bd" width="49%" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GauravPatil2515&layout=compact&hide_border=true&border_radius=16&bg_color=050505&title_color=ffffff&text_color=b4b4bd&langs_count=8" width="49%" alt="Top Languages"/>
 </p>
 
 ## `SELECTED WORK & RESEARCH`
@@ -51,7 +43,7 @@
 | **Aelura** | Decision-first AI interface with intent-based query routing (Fact / Nav / Decision) & dynamic Memory Knowledge Graph. In UAT phase at CoralOS | React · Gemini API · Knowledge Graph |
 
 <p align="center">
-  <img src="./assets/connect.svg?v=1" alt="Connect with Gaurav Patil" width="100%"/>
+  <img src="./assets/connect.svg?v=2" alt="Connect with Gaurav Patil" width="100%"/>
 </p>
 
 <p align="center">
