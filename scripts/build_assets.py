@@ -602,4 +602,13 @@ if __name__ == "__main__":
   id_dashboard(gh)
   achievements()
   connect()
-  print("All 6 Bento SVGs generated successfully in assets/!")
+  try:
+    print("Fetching latest stats.svg...")
+    stats_data = get(
+        "https://github-readme-stats.vercel.app/api?username=GauravPatil2515&show_icons=true&hide_border=true&border_radius=16&bg_color=050505&title_color=ffffff&icon_color=00F2FE&text_color=b4b4bd"
+    )
+    (OUT / "stats.svg").write_bytes(stats_data)
+    print("stats.svg cached successfully!")
+  except Exception as e:
+    print("Could not update stats.svg:", e)
+  print("All Bento SVGs generated successfully in assets/!")

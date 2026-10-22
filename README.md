@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GauravPatil2515&show_icons=true&hide_border=true&border_radius=16&bg_color=050505&title_color=ffffff&icon_color=00F2FE&text_color=b4b4bd" width="49%" alt="GitHub Stats"/>
+  <img src="./assets/stats.svg?v=1" width="49%" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GauravPatil2515&hide_border=true&border_radius=16&background=050505&stroke=27272a&ring=00F2FE&fire=00F2FE&currStreakLabel=ffffff&sideLabels=b4b4bd&currStreakNum=ffffff&sideNums=ffffff&dates=b4b4bd" width="49%" alt="GitHub Streak"/>
 </p>
 
