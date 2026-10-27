@@ -33,14 +33,18 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GauravPatil2515&hide_border=true&border_radius=16&background=050505&stroke=27272a&ring=00F2FE&fire=00F2FE&currStreakLabel=ffffff&sideLabels=b4b4bd&currStreakNum=ffffff&sideNums=ffffff&dates=b4b4bd" width="49%" alt="GitHub Streak"/>
 </p>
 
-## `SELECTED WORK & RESEARCH`
+## `FEATURED RESEARCH & FLAGSHIP SYSTEMS`
 
-| Project | What it is | Stack |
-|---|---|---|
-| **DermAI** | Explainable skin disease classifier on HAM10000 dataset with real-time Grad-CAM attention heatmaps and patient Q&A. **99.1% accuracy** | ViT · Grad-CAM · Llama 3.3 · Flask |
-| **Neuro-RAG** | Deterministic clinical RAG pipeline over 14,000+ lines of ICD-10 medical records with zero-hallucination citations. **29ms latency** | FAISS · Python · LangChain · ICD-10 |
-| **Retinal Vessel Seg v2** | Diabetic retinopathy microvascular segmentation via nested skip connections, evaluated on DRIVE + CHASE_DB1. **83.7% Dice Score** | PyTorch · U-Net++ · FastAPI |
-| **Aelura** | Decision-first AI interface with intent-based query routing (Fact / Nav / Decision) & dynamic Memory Knowledge Graph. In UAT phase at CoralOS | React · Gemini API · Knowledge Graph |
+| Project | What it is | Stack | Quick Link |
+|---|---|---|---|
+| [**EKVA**](https://github.com/GauravPatil2515/EKVA) | Expert-Aware KV Budget Allocation for Sparse MoE LLM Inference — Roofline-Guided Triton Kernel Approach | Triton · PyTorch · CUDA · MoE | [![GitHub stars](https://img.shields.io/github/stars/GauravPatil2515/EKVA?style=flat-square&color=00F2FE)](https://github.com/GauravPatil2515/EKVA) |
+| [**AnuDrishti**](https://github.com/GauravPatil2515/AnuDrishti) | Open-source, regulatory-grade neuro-symbolic platform for molecular toxicity prediction & 21 CFR Part 11 drug safety triage | PyTorch Geometric · RDKit · Conformal Pred | [![GitHub stars](https://img.shields.io/github/stars/GauravPatil2515/AnuDrishti?style=flat-square&color=00F2FE)](https://github.com/GauravPatil2515/AnuDrishti) |
+| [**LLM Security Research**](https://github.com/GauravPatil2515/LLM_Security_Research) | Dual-Plane Defense: Latent Representation Steering & MCP Policy Gateways for Robust LLM Application Security | PyTorch · Latent Steering · MCP · FastAPI | [![GitHub stars](https://img.shields.io/github/stars/GauravPatil2515/LLM_Security_Research?style=flat-square&color=00F2FE)](https://github.com/GauravPatil2515/LLM_Security_Research) |
+| [**CrossImpact-GSSNet**](https://github.com/GauravPatil2515/CrossImpact-GSSNet) | No-Arbitrage-Constrained Graph State-Space Networks for Multi-Asset Cross-Impact Analysis | GNN · State-Space / Mamba · PyTorch | [![GitHub stars](https://img.shields.io/github/stars/GauravPatil2515/CrossImpact-GSSNet?style=flat-square&color=00F2FE)](https://github.com/GauravPatil2515/CrossImpact-GSSNet) |
+| [**Diabetic Retinopathy**](https://github.com/GauravPatil2515/diabetic-retinopathy-paper) | IEEE Submission: Domain-Aware Hybrid CNN-ViT in Cross-Domain Diabetic Retinopathy Grading | ViT · Hybrid CNN · PyTorch · IEEE | [![GitHub stars](https://img.shields.io/github/stars/GauravPatil2515/diabetic-retinopathy-paper?style=flat-square&color=00F2FE)](https://github.com/GauravPatil2515/diabetic-retinopathy-paper) |
+| [**CUDA to FlashAttention**](https://github.com/GauravPatil2515/cuda-to-flashattention) | High-performance GPU kernel implementations transitioning from naive attention to FlashAttention-2 | CUDA · C++ · GPU Optimization | [![GitHub stars](https://img.shields.io/github/stars/GauravPatil2515/cuda-to-flashattention?style=flat-square&color=00F2FE)](https://github.com/GauravPatil2515/cuda-to-flashattention) |
+| [**DermAI**](https://github.com/GauravPatil2515/derm-ai) | Explainable skin disease classifier on HAM10000 dataset with real-time Grad-CAM attention heatmaps and patient Q&A (**99.1% accuracy**) | ViT · Grad-CAM · Llama 3.3 · Flask | [![GitHub stars](https://img.shields.io/github/stars/GauravPatil2515/derm-ai?style=flat-square&color=00F2FE)](https://github.com/GauravPatil2515/derm-ai) |
+| [**Rescue-Radar**](https://github.com/GauravPatil2515/Rescue-Radar) | Real-time animal rescue reporting system with AI vision analysis and automated NGO outreach | React · FastAPI · Computer Vision | [![GitHub stars](https://img.shields.io/github/stars/GauravPatil2515/Rescue-Radar?style=flat-square&color=00F2FE)](https://github.com/GauravPatil2515/Rescue-Radar) |
 
 <p align="center">
   <img src="./assets/connect.svg?v=2" alt="Connect with Gaurav Patil" width="100%"/>
